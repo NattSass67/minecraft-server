@@ -1,0 +1,35 @@
+[17:17:22] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[17:17:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:17:28] [ServerMain/INFO]: Loaded 1370 recipes
+[17:17:28] [ServerMain/INFO]: Loaded 1481 advancements
+[17:17:29] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:17:29] [Server thread/INFO]: Loading properties
+[17:17:29] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:29] [Server thread/INFO]: Generating keypair
+[17:17:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:29] [Server thread/INFO]: Using default channel type
+[17:17:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:17:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:17:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:17:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:17:29] [Server thread/INFO]: Preparing level "world"
+[17:17:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:17:30] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[17:17:31] [Worker-Main-8/INFO]: Preparing spawn area: 51%
+[17:17:31] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[17:17:32] [Worker-Main-11/INFO]: Preparing spawn area: 51%
+[17:17:32] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[17:17:33] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[17:17:33] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[17:17:34] [Server thread/INFO]: Time elapsed: 3416 ms
+[17:17:34] [Server thread/INFO]: Done (4.689s)! For help, type "help"
+[17:17:43] [Server thread/INFO]: Kaboom[/127.0.0.1:63495] logged in with entity id 4 at (15.5, 118.0, 2.5)
+[17:17:43] [Server thread/INFO]: Kaboom joined the game
+[17:18:09] [Server thread/INFO]: Kaboom lost connection: Disconnected
+[17:18:09] [Server thread/INFO]: Kaboom left the game
+[17:19:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:20:26] [Server thread/INFO]: Kaboom[/127.0.0.1:63635] logged in with entity id 333 at (15.5, 118.0, 2.5)
+[17:20:26] [Server thread/INFO]: Kaboom joined the game
+[17:20:30] [Server thread/INFO]: Kaboom lost connection: Disconnected
+[17:20:30] [Server thread/INFO]: Kaboom left the game
+[17:21:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
