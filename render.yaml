@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: minecraft-server
+    env: docker
+    plan: standard
+    dockerfilePath: Dockerfile
+    autoDeploy: true
+    healthCheckPath: /healthz
+    ports:
+      - type: tcp
+        port: 25565
+    envVars:
+      - key: EULA
+        value: "TRUE"
