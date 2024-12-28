@@ -1,0 +1,11 @@
+app = "minecraft-server"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[[services]]
+  internal_port = 25565
+  protocol = "tcp"
+
+  [[services.ports]]
+    port = 25565
